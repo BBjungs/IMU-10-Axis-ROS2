@@ -1,0 +1,28 @@
+[1.611s] Invoking command in '/home/bbcontact/Desktop/wit_ros2_imu': PYTHONPATH=/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/wit_ros2_imu build --build-base /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build install --record /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/install.log --single-version-externally-managed install_data
+[2.440s] running egg_info
+[2.991s] writing build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO
+[2.992s] writing dependency_links to build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt
+[2.993s] writing entry points to build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt
+[2.993s] writing requirements to build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt
+[2.994s] writing top-level names to build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt
+[3.152s] reading manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'
+[3.157s] writing manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'
+[3.157s] running build
+[3.158s] running build_py
+[3.158s] copying wit_ros2_imu/wit_ros2_imu.py -> /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu
+[3.159s] copying wit_ros2_imu/imu_odom.py -> /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu
+[3.160s] running install
+[3.173s] running install_lib
+[3.255s] running install_data
+[3.256s] copying package.xml -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu
+[3.257s] copying launch/rviz_and_imu.launch.py -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/launch
+[3.258s] copying urdf/imu.urdf -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/urdf
+[3.259s] copying meshes/IMU.stl -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/meshes
+[3.271s] running install_egg_info
+[3.351s] removing '/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info' (and everything under it)
+[3.351s] Copying build/wit_ros2_imu/wit_ros2_imu.egg-info to /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info
+[3.354s] running install_scripts
+[3.489s] Installing imu_odom script to /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu
+[3.489s] Installing wit_ros2_imu script to /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu
+[3.490s] writing list of installed files to '/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/install.log'
+[3.589s] Invoked command in '/home/bbcontact/Desktop/wit_ros2_imu' returned '0': PYTHONPATH=/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/wit_ros2_imu build --build-base /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build install --record /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/install.log --single-version-externally-managed install_data

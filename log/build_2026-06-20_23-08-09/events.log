@@ -1,0 +1,71 @@
+[0.000000] (-) TimerEvent: {}
+[0.001495] (wit_ros2_imu) JobQueued: {'identifier': 'wit_ros2_imu', 'dependencies': OrderedDict()}
+[0.001749] (wit_ros2_imu) JobStarted: {'identifier': 'wit_ros2_imu'}
+[0.098496] (-) TimerEvent: {}
+[0.198869] (-) TimerEvent: {}
+[0.299202] (-) TimerEvent: {}
+[0.399576] (-) TimerEvent: {}
+[0.499963] (-) TimerEvent: {}
+[0.600403] (-) TimerEvent: {}
+[0.700786] (-) TimerEvent: {}
+[0.801177] (-) TimerEvent: {}
+[0.901511] (-) TimerEvent: {}
+[1.001915] (-) TimerEvent: {}
+[1.102226] (-) TimerEvent: {}
+[1.202576] (-) TimerEvent: {}
+[1.302970] (-) TimerEvent: {}
+[1.403326] (-) TimerEvent: {}
+[1.503824] (-) TimerEvent: {}
+[1.604294] (-) TimerEvent: {}
+[1.614908] (wit_ros2_imu) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/wit_ros2_imu', 'build', '--build-base', '/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build', 'install', '--record', '/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/bbcontact/Desktop/wit_ros2_imu', 'env': {'VIRTUALENVWRAPPER_WORKON_CD': '1', 'LINOROBOT2_BASE': '4wd', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US', 'WORKON_HOME': '/home/bbcontact/.virtualenvs', 'USER': 'bbcontact', 'LC_TIME': 'th_TH.UTF-8', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/bbcontact/microros_ws/install/micro_ros_agent/lib:/home/bbcontact/microros_ws/install/micro_ros_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/bbcontact', 'VIRTUALENVWRAPPER_PYTHON': '/usr/bin/python3', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/bbcontact/.nvm/versions/node/v22.22.2/bin', 'NVM_INC': '/home/bbcontact/.nvm/versions/node/v22.22.2/include/node', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'LC_MONETARY': 'th_TH.UTF-8', 'MANAGERPID': '6738', 'SYSTEMD_EXEC_PID': '7812', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator21a9d5db22c73a993ff0b42f64b396873', 'LIBVIRT_DEFAULT_URI': 'qemu:///system', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '96632', 'NVM_DIR': '/home/bbcontact/.nvm', 'COLCON_PREFIX_PATH': '/home/bbcontact/Desktop/wit_ros2_imu/install:/home/bbcontact/microros_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'bbcontact', 'JOURNAL_STREAM': '8:88441', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/bbcontact/.local/bin:/home/bbcontact/.nvm/versions/node/v22.22.2/bin:/opt/ros/humble/bin:/home/bbcontact/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bbcontact/.platformio/penv/bin', 'SESSION_MANAGER': 'local/ROS:@/tmp/.ICE-unix/7101,unix/ROS:/tmp/.ICE-unix/7101', 'GDM_LANG': 'en_US', 'INVOCATION_ID': 'c837590913a1426697a52780061c80b5', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'th_TH.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'IBUS_DISABLE_SNOOPER': '1', 'LC_TELEPHONE': 'th_TH.UTF-8', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/home/bbcontact/.Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/bbcontact', 'AMENT_PREFIX_PATH': '/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu:/home/bbcontact/microros_ws/install/micro_ros_setup:/home/bbcontact/microros_ws/install/micro_ros_agent:/home/bbcontact/microros_ws/install/micro_ros_msgs:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'th_TH.UTF-8', 'TERMINATOR_UUID': 'urn:uuid:d0984d89-7706-4131-944c-4eb49c0e0c7e', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUALENVWRAPPER_PROJECT_FILENAME': '.project', 'LC_MEASUREMENT': 'th_TH.UTF-8', 'VIRTUALENVWRAPPER_HOOK_DIR': '/home/bbcontact/.virtualenvs', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'th_TH.UTF-8', 'VIRTUALENVWRAPPER_SCRIPT': '/home/bbcontact/.local/bin/virtualenvwrapper.sh', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'NVM_CD_FLAGS': '', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/home/bbcontact/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:/home/bbcontact/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/usr/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'th_TH.UTF-8', 'LC_PAPER': 'th_TH.UTF-8', 'COLCON': '1', 'LINOROBOT2_LASER_SENSOR': 'ydlidar', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/bbcontact/microros_ws/install/micro_ros_setup:/home/bbcontact/microros_ws/install/micro_ros_agent:/home/bbcontact/microros_ws/install/micro_ros_msgs'}, 'shell': False}
+[1.704476] (-) TimerEvent: {}
+[1.804935] (-) TimerEvent: {}
+[1.905336] (-) TimerEvent: {}
+[2.005735] (-) TimerEvent: {}
+[2.106172] (-) TimerEvent: {}
+[2.206646] (-) TimerEvent: {}
+[2.307020] (-) TimerEvent: {}
+[2.407452] (-) TimerEvent: {}
+[2.465252] (wit_ros2_imu) StdoutLine: {'line': b'running egg_info\n'}
+[2.507615] (-) TimerEvent: {}
+[2.607991] (-) TimerEvent: {}
+[2.708547] (-) TimerEvent: {}
+[2.808990] (-) TimerEvent: {}
+[2.909421] (-) TimerEvent: {}
+[3.009850] (-) TimerEvent: {}
+[3.039038] (wit_ros2_imu) StdoutLine: {'line': b'writing build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO\n'}
+[3.040126] (wit_ros2_imu) StdoutLine: {'line': b'writing dependency_links to build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt\n'}
+[3.040697] (wit_ros2_imu) StdoutLine: {'line': b'writing entry points to build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt\n'}
+[3.041147] (wit_ros2_imu) StdoutLine: {'line': b'writing requirements to build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt\n'}
+[3.041493] (wit_ros2_imu) StdoutLine: {'line': b'writing top-level names to build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt\n'}
+[3.110025] (-) TimerEvent: {}
+[3.210516] (-) TimerEvent: {}
+[3.225190] (wit_ros2_imu) StdoutLine: {'line': b"reading manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[3.230469] (wit_ros2_imu) StdoutLine: {'line': b"writing manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[3.230961] (wit_ros2_imu) StdoutLine: {'line': b'running build\n'}
+[3.231215] (wit_ros2_imu) StdoutLine: {'line': b'running build_py\n'}
+[3.231804] (wit_ros2_imu) StdoutLine: {'line': b'copying wit_ros2_imu/wit_ros2_imu.py -> /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu\n'}
+[3.232610] (wit_ros2_imu) StdoutLine: {'line': b'copying wit_ros2_imu/imu_odom.py -> /home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu\n'}
+[3.233817] (wit_ros2_imu) StdoutLine: {'line': b'running install\n'}
+[3.250012] (wit_ros2_imu) StdoutLine: {'line': b'running install_lib\n'}
+[3.310669] (-) TimerEvent: {}
+[3.327977] (wit_ros2_imu) StdoutLine: {'line': b'running install_data\n'}
+[3.329173] (wit_ros2_imu) StdoutLine: {'line': b'copying package.xml -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu\n'}
+[3.330114] (wit_ros2_imu) StdoutLine: {'line': b'copying launch/rviz_and_imu.launch.py -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/launch\n'}
+[3.331123] (wit_ros2_imu) StdoutLine: {'line': b'copying config/imu.rviz -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/config\n'}
+[3.332046] (wit_ros2_imu) StdoutLine: {'line': b'copying urdf/imu.urdf -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/urdf\n'}
+[3.332889] (wit_ros2_imu) StdoutLine: {'line': b'copying meshes/IMU.stl -> /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu/meshes\n'}
+[3.342498] (wit_ros2_imu) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.410821] (-) TimerEvent: {}
+[3.420785] (wit_ros2_imu) StdoutLine: {'line': b"removing '/home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[3.421770] (wit_ros2_imu) StdoutLine: {'line': b'Copying build/wit_ros2_imu/wit_ros2_imu.egg-info to /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info\n'}
+[3.424347] (wit_ros2_imu) StdoutLine: {'line': b'running install_scripts\n'}
+[3.510966] (-) TimerEvent: {}
+[3.568176] (wit_ros2_imu) StdoutLine: {'line': b'Installing imu_odom script to /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu\n'}
+[3.568919] (wit_ros2_imu) StdoutLine: {'line': b'Installing wit_ros2_imu script to /home/bbcontact/Desktop/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu\n'}
+[3.570296] (wit_ros2_imu) StdoutLine: {'line': b"writing list of installed files to '/home/bbcontact/Desktop/wit_ros2_imu/build/wit_ros2_imu/install.log'\n"}
+[3.611193] (-) TimerEvent: {}
+[3.671422] (wit_ros2_imu) CommandEnded: {'returncode': 0}
+[3.711602] (-) TimerEvent: {}
+[3.715555] (wit_ros2_imu) JobEnded: {'identifier': 'wit_ros2_imu', 'rc': 0}
+[3.717907] (-) EventReactorShutdown: {}

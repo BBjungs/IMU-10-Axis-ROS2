@@ -1,0 +1,404 @@
+[0.000000] (-) TimerEvent: {}
+[0.000568] (wit_ros2_imu) JobQueued: {'identifier': 'wit_ros2_imu', 'dependencies': OrderedDict()}
+[0.001967] (wit_ros2_imu) JobStarted: {'identifier': 'wit_ros2_imu'}
+[0.099995] (-) TimerEvent: {}
+[0.200305] (-) TimerEvent: {}
+[0.300570] (-) TimerEvent: {}
+[0.400809] (-) TimerEvent: {}
+[0.501066] (-) TimerEvent: {}
+[0.601300] (-) TimerEvent: {}
+[0.701544] (-) TimerEvent: {}
+[0.801776] (-) TimerEvent: {}
+[0.902098] (-) TimerEvent: {}
+[1.002452] (-) TimerEvent: {}
+[1.102865] (-) TimerEvent: {}
+[1.203193] (-) TimerEvent: {}
+[1.303464] (-) TimerEvent: {}
+[1.403806] (-) TimerEvent: {}
+[1.504131] (-) TimerEvent: {}
+[1.604453] (-) TimerEvent: {}
+[1.704734] (-) TimerEvent: {}
+[1.805063] (-) TimerEvent: {}
+[1.905456] (-) TimerEvent: {}
+[2.005797] (-) TimerEvent: {}
+[2.106149] (-) TimerEvent: {}
+[2.206513] (-) TimerEvent: {}
+[2.306875] (-) TimerEvent: {}
+[2.407233] (-) TimerEvent: {}
+[2.507587] (-) TimerEvent: {}
+[2.607889] (-) TimerEvent: {}
+[2.708233] (-) TimerEvent: {}
+[2.808797] (-) TimerEvent: {}
+[2.909330] (-) TimerEvent: {}
+[3.009689] (-) TimerEvent: {}
+[3.110058] (-) TimerEvent: {}
+[3.210437] (-) TimerEvent: {}
+[3.310884] (-) TimerEvent: {}
+[3.411243] (-) TimerEvent: {}
+[3.511651] (-) TimerEvent: {}
+[3.612064] (-) TimerEvent: {}
+[3.712420] (-) TimerEvent: {}
+[3.812743] (-) TimerEvent: {}
+[3.913147] (-) TimerEvent: {}
+[4.013520] (-) TimerEvent: {}
+[4.113878] (-) TimerEvent: {}
+[4.214306] (-) TimerEvent: {}
+[4.314665] (-) TimerEvent: {}
+[4.415082] (-) TimerEvent: {}
+[4.515506] (-) TimerEvent: {}
+[4.615861] (-) TimerEvent: {}
+[4.716273] (-) TimerEvent: {}
+[4.816678] (-) TimerEvent: {}
+[4.917066] (-) TimerEvent: {}
+[5.017501] (-) TimerEvent: {}
+[5.117869] (-) TimerEvent: {}
+[5.218254] (-) TimerEvent: {}
+[5.318630] (-) TimerEvent: {}
+[5.419057] (-) TimerEvent: {}
+[5.519565] (-) TimerEvent: {}
+[5.619974] (-) TimerEvent: {}
+[5.720361] (-) TimerEvent: {}
+[5.820739] (-) TimerEvent: {}
+[5.921079] (-) TimerEvent: {}
+[6.021540] (-) TimerEvent: {}
+[6.122051] (-) TimerEvent: {}
+[6.222423] (-) TimerEvent: {}
+[6.322866] (-) TimerEvent: {}
+[6.423225] (-) TimerEvent: {}
+[6.523658] (-) TimerEvent: {}
+[6.624317] (-) TimerEvent: {}
+[6.724715] (-) TimerEvent: {}
+[6.825584] (-) TimerEvent: {}
+[6.926358] (-) TimerEvent: {}
+[7.026793] (-) TimerEvent: {}
+[7.127183] (-) TimerEvent: {}
+[7.227552] (-) TimerEvent: {}
+[7.327994] (-) TimerEvent: {}
+[7.428405] (-) TimerEvent: {}
+[7.528797] (-) TimerEvent: {}
+[7.629274] (-) TimerEvent: {}
+[7.729625] (-) TimerEvent: {}
+[7.829998] (-) TimerEvent: {}
+[7.930423] (-) TimerEvent: {}
+[8.030753] (-) TimerEvent: {}
+[8.131143] (-) TimerEvent: {}
+[8.231532] (-) TimerEvent: {}
+[8.331922] (-) TimerEvent: {}
+[8.432502] (-) TimerEvent: {}
+[8.532831] (-) TimerEvent: {}
+[8.633249] (-) TimerEvent: {}
+[8.733741] (-) TimerEvent: {}
+[8.834286] (-) TimerEvent: {}
+[8.934776] (-) TimerEvent: {}
+[9.035165] (-) TimerEvent: {}
+[9.135504] (-) TimerEvent: {}
+[9.235892] (-) TimerEvent: {}
+[9.336317] (-) TimerEvent: {}
+[9.436725] (-) TimerEvent: {}
+[9.537119] (-) TimerEvent: {}
+[9.637567] (-) TimerEvent: {}
+[9.738235] (-) TimerEvent: {}
+[9.838574] (-) TimerEvent: {}
+[9.938907] (-) TimerEvent: {}
+[10.039336] (-) TimerEvent: {}
+[10.139730] (-) TimerEvent: {}
+[10.240092] (-) TimerEvent: {}
+[10.340495] (-) TimerEvent: {}
+[10.440827] (-) TimerEvent: {}
+[10.541200] (-) TimerEvent: {}
+[10.641583] (-) TimerEvent: {}
+[10.741987] (-) TimerEvent: {}
+[10.842357] (-) TimerEvent: {}
+[10.942838] (-) TimerEvent: {}
+[11.043227] (-) TimerEvent: {}
+[11.143642] (-) TimerEvent: {}
+[11.244075] (-) TimerEvent: {}
+[11.344505] (-) TimerEvent: {}
+[11.444899] (-) TimerEvent: {}
+[11.545399] (-) TimerEvent: {}
+[11.645807] (-) TimerEvent: {}
+[11.746153] (-) TimerEvent: {}
+[11.846536] (-) TimerEvent: {}
+[11.946889] (-) TimerEvent: {}
+[12.047254] (-) TimerEvent: {}
+[12.147690] (-) TimerEvent: {}
+[12.248084] (-) TimerEvent: {}
+[12.348465] (-) TimerEvent: {}
+[12.448820] (-) TimerEvent: {}
+[12.549153] (-) TimerEvent: {}
+[12.649611] (-) TimerEvent: {}
+[12.750035] (-) TimerEvent: {}
+[12.850554] (-) TimerEvent: {}
+[12.950962] (-) TimerEvent: {}
+[13.051410] (-) TimerEvent: {}
+[13.151743] (-) TimerEvent: {}
+[13.252189] (-) TimerEvent: {}
+[13.352534] (-) TimerEvent: {}
+[13.452978] (-) TimerEvent: {}
+[13.553453] (-) TimerEvent: {}
+[13.653827] (-) TimerEvent: {}
+[13.754168] (-) TimerEvent: {}
+[13.854613] (-) TimerEvent: {}
+[13.955015] (-) TimerEvent: {}
+[14.055427] (-) TimerEvent: {}
+[14.155814] (-) TimerEvent: {}
+[14.256259] (-) TimerEvent: {}
+[14.356617] (-) TimerEvent: {}
+[14.457038] (-) TimerEvent: {}
+[14.557476] (-) TimerEvent: {}
+[14.657812] (-) TimerEvent: {}
+[14.758201] (-) TimerEvent: {}
+[14.858815] (-) TimerEvent: {}
+[14.959388] (-) TimerEvent: {}
+[15.059749] (-) TimerEvent: {}
+[15.160156] (-) TimerEvent: {}
+[15.260850] (-) TimerEvent: {}
+[15.361398] (-) TimerEvent: {}
+[15.461722] (-) TimerEvent: {}
+[15.562100] (-) TimerEvent: {}
+[15.662506] (-) TimerEvent: {}
+[15.762903] (-) TimerEvent: {}
+[15.863323] (-) TimerEvent: {}
+[15.963709] (-) TimerEvent: {}
+[16.064123] (-) TimerEvent: {}
+[16.164548] (-) TimerEvent: {}
+[16.264969] (-) TimerEvent: {}
+[16.365349] (-) TimerEvent: {}
+[16.465775] (-) TimerEvent: {}
+[16.566239] (-) TimerEvent: {}
+[16.666666] (-) TimerEvent: {}
+[16.767163] (-) TimerEvent: {}
+[16.867574] (-) TimerEvent: {}
+[16.968011] (-) TimerEvent: {}
+[17.068441] (-) TimerEvent: {}
+[17.168821] (-) TimerEvent: {}
+[17.269255] (-) TimerEvent: {}
+[17.369644] (-) TimerEvent: {}
+[17.470097] (-) TimerEvent: {}
+[17.570523] (-) TimerEvent: {}
+[17.670896] (-) TimerEvent: {}
+[17.771249] (-) TimerEvent: {}
+[17.871648] (-) TimerEvent: {}
+[17.972076] (-) TimerEvent: {}
+[18.072478] (-) TimerEvent: {}
+[18.172853] (-) TimerEvent: {}
+[18.273256] (-) TimerEvent: {}
+[18.373707] (-) TimerEvent: {}
+[18.474172] (-) TimerEvent: {}
+[18.574534] (-) TimerEvent: {}
+[18.674969] (-) TimerEvent: {}
+[18.775569] (-) TimerEvent: {}
+[18.876134] (-) TimerEvent: {}
+[18.976757] (-) TimerEvent: {}
+[19.077496] (-) TimerEvent: {}
+[19.177850] (-) TimerEvent: {}
+[19.278278] (-) TimerEvent: {}
+[19.378625] (-) TimerEvent: {}
+[19.479031] (-) TimerEvent: {}
+[19.579476] (-) TimerEvent: {}
+[19.679943] (-) TimerEvent: {}
+[19.780344] (-) TimerEvent: {}
+[19.880717] (-) TimerEvent: {}
+[19.981110] (-) TimerEvent: {}
+[20.081534] (-) TimerEvent: {}
+[20.181873] (-) TimerEvent: {}
+[20.282274] (-) TimerEvent: {}
+[20.382613] (-) TimerEvent: {}
+[20.483004] (-) TimerEvent: {}
+[20.583449] (-) TimerEvent: {}
+[20.683791] (-) TimerEvent: {}
+[20.784193] (-) TimerEvent: {}
+[20.884616] (-) TimerEvent: {}
+[20.984969] (-) TimerEvent: {}
+[21.085327] (-) TimerEvent: {}
+[21.185716] (-) TimerEvent: {}
+[21.286088] (-) TimerEvent: {}
+[21.386549] (-) TimerEvent: {}
+[21.486954] (-) TimerEvent: {}
+[21.587409] (-) TimerEvent: {}
+[21.687779] (-) TimerEvent: {}
+[21.788145] (-) TimerEvent: {}
+[21.888498] (-) TimerEvent: {}
+[21.988888] (-) TimerEvent: {}
+[22.089315] (-) TimerEvent: {}
+[22.189754] (-) TimerEvent: {}
+[22.290138] (-) TimerEvent: {}
+[22.390578] (-) TimerEvent: {}
+[22.490934] (-) TimerEvent: {}
+[22.591326] (-) TimerEvent: {}
+[22.691857] (-) TimerEvent: {}
+[22.792512] (-) TimerEvent: {}
+[22.893141] (-) TimerEvent: {}
+[22.993687] (-) TimerEvent: {}
+[23.094130] (-) TimerEvent: {}
+[23.194599] (-) TimerEvent: {}
+[23.295000] (-) TimerEvent: {}
+[23.395403] (-) TimerEvent: {}
+[23.495755] (-) TimerEvent: {}
+[23.596204] (-) TimerEvent: {}
+[23.696606] (-) TimerEvent: {}
+[23.797009] (-) TimerEvent: {}
+[23.897343] (-) TimerEvent: {}
+[23.997702] (-) TimerEvent: {}
+[24.098097] (-) TimerEvent: {}
+[24.198472] (-) TimerEvent: {}
+[24.298911] (-) TimerEvent: {}
+[24.399303] (-) TimerEvent: {}
+[24.499660] (-) TimerEvent: {}
+[24.600018] (-) TimerEvent: {}
+[24.700426] (-) TimerEvent: {}
+[24.800825] (-) TimerEvent: {}
+[24.901228] (-) TimerEvent: {}
+[25.001603] (-) TimerEvent: {}
+[25.102011] (-) TimerEvent: {}
+[25.202421] (-) TimerEvent: {}
+[25.302790] (-) TimerEvent: {}
+[25.403246] (-) TimerEvent: {}
+[25.503642] (-) TimerEvent: {}
+[25.604033] (-) TimerEvent: {}
+[25.704479] (-) TimerEvent: {}
+[25.804879] (-) TimerEvent: {}
+[25.905278] (-) TimerEvent: {}
+[26.005614] (-) TimerEvent: {}
+[26.105997] (-) TimerEvent: {}
+[26.206451] (-) TimerEvent: {}
+[26.306780] (-) TimerEvent: {}
+[26.407195] (-) TimerEvent: {}
+[26.507583] (-) TimerEvent: {}
+[26.608006] (-) TimerEvent: {}
+[26.708363] (-) TimerEvent: {}
+[26.808790] (-) TimerEvent: {}
+[26.909200] (-) TimerEvent: {}
+[27.009578] (-) TimerEvent: {}
+[27.109943] (-) TimerEvent: {}
+[27.210443] (-) TimerEvent: {}
+[27.310797] (-) TimerEvent: {}
+[27.411194] (-) TimerEvent: {}
+[27.511621] (-) TimerEvent: {}
+[27.612040] (-) TimerEvent: {}
+[27.712510] (-) TimerEvent: {}
+[27.812937] (-) TimerEvent: {}
+[27.913355] (-) TimerEvent: {}
+[28.013783] (-) TimerEvent: {}
+[28.114249] (-) TimerEvent: {}
+[28.214607] (-) TimerEvent: {}
+[28.315047] (-) TimerEvent: {}
+[28.415517] (-) TimerEvent: {}
+[28.515943] (-) TimerEvent: {}
+[28.616386] (-) TimerEvent: {}
+[28.716734] (-) TimerEvent: {}
+[28.817109] (-) TimerEvent: {}
+[28.917497] (-) TimerEvent: {}
+[29.017871] (-) TimerEvent: {}
+[29.118302] (-) TimerEvent: {}
+[29.218653] (-) TimerEvent: {}
+[29.319005] (-) TimerEvent: {}
+[29.419558] (-) TimerEvent: {}
+[29.520115] (-) TimerEvent: {}
+[29.620548] (-) TimerEvent: {}
+[29.720955] (-) TimerEvent: {}
+[29.821354] (-) TimerEvent: {}
+[29.921730] (-) TimerEvent: {}
+[30.022114] (-) TimerEvent: {}
+[30.122502] (-) TimerEvent: {}
+[30.222934] (-) TimerEvent: {}
+[30.323329] (-) TimerEvent: {}
+[30.423672] (-) TimerEvent: {}
+[30.523983] (-) TimerEvent: {}
+[30.624261] (-) TimerEvent: {}
+[30.724457] (-) TimerEvent: {}
+[30.824741] (-) TimerEvent: {}
+[30.925062] (-) TimerEvent: {}
+[31.025423] (-) TimerEvent: {}
+[31.125671] (-) TimerEvent: {}
+[31.225909] (-) TimerEvent: {}
+[31.326207] (-) TimerEvent: {}
+[31.426566] (-) TimerEvent: {}
+[31.527069] (-) TimerEvent: {}
+[31.627397] (-) TimerEvent: {}
+[31.727621] (-) TimerEvent: {}
+[31.827907] (-) TimerEvent: {}
+[31.928157] (-) TimerEvent: {}
+[32.028410] (-) TimerEvent: {}
+[32.087059] (wit_ros2_imu) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/wit_ros2_imu', 'build', '--build-base', '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build', 'install', '--record', '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log', '--install-scripts', '$base/lib/wit_ros2_imu', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu', 'env': {'VIRTUALENVWRAPPER_WORKON_CD': '1', 'LINOROBOT2_BASE': '4wd', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'CODEX_CI': '1', 'LANGUAGE': 'en_US', 'WORKON_HOME': '/home/bbcontact/.virtualenvs', 'USER': 'bbcontact', 'LC_TIME': 'th_TH.UTF-8', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/bbcontact/microros_ws/install/micro_ros_agent/lib:/home/bbcontact/microros_ws/install/micro_ros_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/bbcontact', 'VIRTUALENVWRAPPER_PYTHON': '/usr/bin/python3', 'OLDPWD': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/bbcontact/.nvm/versions/node/v22.22.2/bin', 'NVM_INC': '/home/bbcontact/.nvm/versions/node/v22.22.2/include/node', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'PAGER': 'cat', 'LC_MONETARY': 'th_TH.UTF-8', 'LC_CTYPE': 'C.UTF-8', 'DBUS_STARTER_BUS_TYPE': 'session', 'SYSTEMD_EXEC_PID': '7101', 'NO_COLOR': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=8927ee263ff8c80421eef24b6a351777', 'COLORTERM': 'truecolor', 'LIBVIRT_DEFAULT_URI': 'qemu:///system', 'NVM_DIR': '/home/bbcontact/.nvm', 'COLCON_PREFIX_PATH': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install:/home/bbcontact/microros_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'bbcontact', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/bbcontact/.nvm/versions/node/v22.22.2/lib/node_modules/@openai/codex/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path:/home/bbcontact/.local/bin:/home/bbcontact/.codex/tmp/arg0/codex-arg0GgNkgB:/home/bbcontact/.nvm/versions/node/v22.22.2/lib/node_modules/@openai/codex/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path:/home/bbcontact/.local/bin:/home/bbcontact/.local/bin:/home/bbcontact/.nvm/versions/node/v22.22.2/bin:/opt/ros/humble/bin:/home/bbcontact/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bbcontact/.platformio/penv/bin', 'SESSION_MANAGER': 'local/ROS:@/tmp/.ICE-unix/7101,unix/ROS:/tmp/.ICE-unix/7101', 'GDM_LANG': 'en_US', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'th_TH.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/7f67e6bb_b9c7_496d_9445_38ab34b7e852', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'CODEX_SANDBOX_NETWORK_DISABLED': '1', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'th_TH.UTF-8', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'XMODIFIERS': '@im=ibus', 'GH_PAGER': 'cat', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/home/bbcontact/.Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.138', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/bbcontact', 'AMENT_PREFIX_PATH': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu:/home/bbcontact/microros_ws/install/micro_ros_setup:/home/bbcontact/microros_ws/install/micro_ros_agent:/home/bbcontact/microros_ws/install/micro_ros_msgs:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'th_TH.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUALENVWRAPPER_PROJECT_FILENAME': '.project', 'CODEX_THREAD_ID': '019edf92-9476-7981-a90e-e1b3281c2064', 'LC_MEASUREMENT': 'th_TH.UTF-8', 'VIRTUALENVWRAPPER_HOOK_DIR': '/home/bbcontact/.virtualenvs', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'th_TH.UTF-8', 'VIRTUALENVWRAPPER_SCRIPT': '/home/bbcontact/.local/bin/virtualenvwrapper.sh', 'GIT_PAGER': 'cat', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'en_US.UTF-8', 'CODEX_MANAGED_PACKAGE_ROOT': '/home/bbcontact/.nvm/versions/node/v22.22.2/lib/node_modules/@openai/codex', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'NVM_CD_FLAGS': '', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=8927ee263ff8c80421eef24b6a351777', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/home/bbcontact/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:/home/bbcontact/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/usr/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'th_TH.UTF-8', 'LC_PAPER': 'th_TH.UTF-8', 'COLCON': '1', 'CODEX_MANAGED_BY_NPM': '1', 'LINOROBOT2_LASER_SENSOR': 'ydlidar', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/bbcontact/microros_ws/install/micro_ros_setup:/home/bbcontact/microros_ws/install/micro_ros_agent:/home/bbcontact/microros_ws/install/micro_ros_msgs'}, 'shell': False}
+[32.128519] (-) TimerEvent: {}
+[32.228791] (-) TimerEvent: {}
+[32.329015] (-) TimerEvent: {}
+[32.429261] (-) TimerEvent: {}
+[32.429857] (wit_ros2_imu) StderrLine: {'line': b"/home/bbcontact/.local/lib/python3.10/site-packages/setuptools/dist.py:599: SetuptoolsDeprecationWarning: Invalid dash-separated key 'script-dir' in 'develop' (setup.cfg), please use the underscore name 'script_dir' instead.\n"}
+[32.430102] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[32.430220] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.430326] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[32.430452] (wit_ros2_imu) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[32.430562] (wit_ros2_imu) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[32.430666] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.430765] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.430878] (wit_ros2_imu) StderrLine: {'line': b'        Available configuration options are listed in:\n'}
+[32.430993] (wit_ros2_imu) StderrLine: {'line': b'        https://setuptools.pypa.io/en/latest/userguide/declarative_config.html\n'}
+[32.431099] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.431202] (wit_ros2_imu) StderrLine: {'line': b'        This deprecation is overdue, please update your project and remove deprecated\n'}
+[32.431305] (wit_ros2_imu) StderrLine: {'line': b'        calls to avoid build errors in the future.\n'}
+[32.431424] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.431541] (wit_ros2_imu) StderrLine: {'line': b'        See https://github.com/pypa/setuptools/discussions/5011 for details.\n'}
+[32.431646] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[32.431749] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.431853] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[32.431956] (wit_ros2_imu) StderrLine: {'line': b'  opt = self._enforce_underscore(opt, section)\n'}
+[32.476621] (wit_ros2_imu) StderrLine: {'line': b"/home/bbcontact/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:287: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[32.476845] (wit_ros2_imu) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[32.529414] (-) TimerEvent: {}
+[32.569327] (wit_ros2_imu) StderrLine: {'line': b"/home/bbcontact/.local/lib/python3.10/site-packages/setuptools/dist.py:599: SetuptoolsDeprecationWarning: Invalid dash-separated key 'script-dir' in 'develop' (setup.cfg), please use the underscore name 'script_dir' instead.\n"}
+[32.569564] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[32.569685] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.569794] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[32.569900] (wit_ros2_imu) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[32.570001] (wit_ros2_imu) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[32.570102] (wit_ros2_imu) StderrLine: {'line': b'        (Affected: wit_ros2_imu).\n'}
+[32.570201] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.570300] (wit_ros2_imu) StderrLine: {'line': b'        Available configuration options are listed in:\n'}
+[32.570419] (wit_ros2_imu) StderrLine: {'line': b'        https://setuptools.pypa.io/en/latest/userguide/declarative_config.html\n'}
+[32.570525] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.570624] (wit_ros2_imu) StderrLine: {'line': b'        This deprecation is overdue, please update your project and remove deprecated\n'}
+[32.570721] (wit_ros2_imu) StderrLine: {'line': b'        calls to avoid build errors in the future.\n'}
+[32.570817] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.570914] (wit_ros2_imu) StderrLine: {'line': b'        See https://github.com/pypa/setuptools/discussions/5011 for details.\n'}
+[32.571012] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[32.571111] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[32.571215] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[32.571314] (wit_ros2_imu) StderrLine: {'line': b'  opt = self._enforce_underscore(opt, section)\n'}
+[32.629534] (-) TimerEvent: {}
+[32.729759] (-) TimerEvent: {}
+[32.764285] (wit_ros2_imu) StdoutLine: {'line': b'running egg_info\n'}
+[32.829924] (-) TimerEvent: {}
+[32.930176] (-) TimerEvent: {}
+[33.030432] (-) TimerEvent: {}
+[33.130625] (-) TimerEvent: {}
+[33.167486] (wit_ros2_imu) StdoutLine: {'line': b'writing build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO\n'}
+[33.168215] (wit_ros2_imu) StdoutLine: {'line': b'writing dependency_links to build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt\n'}
+[33.168680] (wit_ros2_imu) StdoutLine: {'line': b'writing entry points to build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt\n'}
+[33.169135] (wit_ros2_imu) StdoutLine: {'line': b'writing requirements to build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt\n'}
+[33.169566] (wit_ros2_imu) StdoutLine: {'line': b'writing top-level names to build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt\n'}
+[33.230754] (-) TimerEvent: {}
+[33.288196] (wit_ros2_imu) StdoutLine: {'line': b"reading manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[33.291633] (wit_ros2_imu) StdoutLine: {'line': b"writing manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[33.292066] (wit_ros2_imu) StdoutLine: {'line': b'running build\n'}
+[33.292276] (wit_ros2_imu) StdoutLine: {'line': b'running build_py\n'}
+[33.292725] (wit_ros2_imu) StdoutLine: {'line': b'copying wit_ros2_imu/wit_ros2_imu.py -> /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu\n'}
+[33.293590] (wit_ros2_imu) StdoutLine: {'line': b'running install\n'}
+[33.303606] (wit_ros2_imu) StdoutLine: {'line': b'running install_lib\n'}
+[33.330866] (-) TimerEvent: {}
+[33.351887] (wit_ros2_imu) StdoutLine: {'line': b'copying /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu/wit_ros2_imu.py -> /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu\n'}
+[33.352929] (wit_ros2_imu) StdoutLine: {'line': b'byte-compiling /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu/wit_ros2_imu.py to wit_ros2_imu.cpython-310.pyc\n'}
+[33.356349] (wit_ros2_imu) StdoutLine: {'line': b'running install_data\n'}
+[33.357295] (wit_ros2_imu) StdoutLine: {'line': b'copying launch/rviz_and_imu.launch.py -> /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu\n'}
+[33.357707] (wit_ros2_imu) StdoutLine: {'line': b'running install_egg_info\n'}
+[33.409843] (wit_ros2_imu) StdoutLine: {'line': b"removing '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[33.410455] (wit_ros2_imu) StdoutLine: {'line': b'Copying build/wit_ros2_imu/wit_ros2_imu.egg-info to /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info\n'}
+[33.412104] (wit_ros2_imu) StdoutLine: {'line': b'running install_scripts\n'}
+[33.430975] (-) TimerEvent: {}
+[33.509986] (wit_ros2_imu) StdoutLine: {'line': b'Installing wit_ros2_imu script to /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu\n'}
+[33.510813] (wit_ros2_imu) StdoutLine: {'line': b"writing list of installed files to '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log'\n"}
+[33.531116] (-) TimerEvent: {}
+[33.565849] (wit_ros2_imu) CommandEnded: {'returncode': 0}
+[33.605948] (wit_ros2_imu) JobEnded: {'identifier': 'wit_ros2_imu', 'rc': 0}
+[33.607264] (-) EventReactorShutdown: {}

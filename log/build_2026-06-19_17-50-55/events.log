@@ -1,0 +1,98 @@
+[0.000000] (-) TimerEvent: {}
+[0.000904] (wit_ros2_imu) JobQueued: {'identifier': 'wit_ros2_imu', 'dependencies': OrderedDict()}
+[0.001290] (wit_ros2_imu) JobStarted: {'identifier': 'wit_ros2_imu'}
+[0.099997] (-) TimerEvent: {}
+[0.200381] (-) TimerEvent: {}
+[0.300816] (-) TimerEvent: {}
+[0.401175] (-) TimerEvent: {}
+[0.501528] (-) TimerEvent: {}
+[0.601939] (-) TimerEvent: {}
+[0.702348] (-) TimerEvent: {}
+[0.802749] (-) TimerEvent: {}
+[0.903144] (-) TimerEvent: {}
+[1.003553] (-) TimerEvent: {}
+[1.103925] (-) TimerEvent: {}
+[1.204282] (-) TimerEvent: {}
+[1.304712] (-) TimerEvent: {}
+[1.405089] (-) TimerEvent: {}
+[1.505464] (-) TimerEvent: {}
+[1.583293] (wit_ros2_imu) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/wit_ros2_imu', 'build', '--build-base', '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build', 'install', '--record', '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log', '--install-scripts', '$base/lib/wit_ros2_imu', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu', 'env': {'VIRTUALENVWRAPPER_WORKON_CD': '1', 'LINOROBOT2_BASE': '4wd', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US', 'WORKON_HOME': '/home/bbcontact/.virtualenvs', 'USER': 'bbcontact', 'LC_TIME': 'th_TH.UTF-8', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/bbcontact/microros_ws/install/micro_ros_agent/lib:/home/bbcontact/microros_ws/install/micro_ros_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/bbcontact', 'VIRTUALENVWRAPPER_PYTHON': '/usr/bin/python3', 'OLDPWD': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/bbcontact/.nvm/versions/node/v22.22.2/bin', 'NVM_INC': '/home/bbcontact/.nvm/versions/node/v22.22.2/include/node', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'LC_MONETARY': 'th_TH.UTF-8', 'DBUS_STARTER_BUS_TYPE': 'session', 'SYSTEMD_EXEC_PID': '7101', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=8927ee263ff8c80421eef24b6a351777', 'COLORTERM': 'truecolor', 'LIBVIRT_DEFAULT_URI': 'qemu:///system', 'NVM_DIR': '/home/bbcontact/.nvm', 'COLCON_PREFIX_PATH': '/home/bbcontact/microros_ws/install', 'ROS_DISTRO': 'humble', 'GTK_IM_MODULE': 'ibus', 'LOGNAME': 'bbcontact', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/bbcontact/.local/bin:/home/bbcontact/.local/bin:/home/bbcontact/.nvm/versions/node/v22.22.2/bin:/opt/ros/humble/bin:/home/bbcontact/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bbcontact/.platformio/penv/bin', 'SESSION_MANAGER': 'local/ROS:@/tmp/.ICE-unix/7101,unix/ROS:/tmp/.ICE-unix/7101', 'GDM_LANG': 'en_US', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'th_TH.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/7f67e6bb_b9c7_496d_9445_38ab34b7e852', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'th_TH.UTF-8', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/home/bbcontact/.Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.138', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/bbcontact', 'AMENT_PREFIX_PATH': '/home/bbcontact/microros_ws/install/micro_ros_setup:/home/bbcontact/microros_ws/install/micro_ros_agent:/home/bbcontact/microros_ws/install/micro_ros_msgs:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'th_TH.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUALENVWRAPPER_PROJECT_FILENAME': '.project', 'LC_MEASUREMENT': 'th_TH.UTF-8', 'VIRTUALENVWRAPPER_HOOK_DIR': '/home/bbcontact/.virtualenvs', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'th_TH.UTF-8', 'VIRTUALENVWRAPPER_SCRIPT': '/home/bbcontact/.local/bin/virtualenvwrapper.sh', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'NVM_CD_FLAGS': '', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=8927ee263ff8c80421eef24b6a351777', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/home/bbcontact/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:/home/bbcontact/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/usr/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'th_TH.UTF-8', 'LC_PAPER': 'th_TH.UTF-8', 'COLCON': '1', 'LINOROBOT2_LASER_SENSOR': 'ydlidar', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/bbcontact/microros_ws/install/micro_ros_setup:/home/bbcontact/microros_ws/install/micro_ros_agent:/home/bbcontact/microros_ws/install/micro_ros_msgs'}, 'shell': False}
+[1.613121] (-) TimerEvent: {}
+[1.714276] (-) TimerEvent: {}
+[1.814613] (-) TimerEvent: {}
+[1.914976] (-) TimerEvent: {}
+[1.941761] (wit_ros2_imu) StderrLine: {'line': b"/home/bbcontact/.local/lib/python3.10/site-packages/setuptools/dist.py:599: SetuptoolsDeprecationWarning: Invalid dash-separated key 'script-dir' in 'develop' (setup.cfg), please use the underscore name 'script_dir' instead.\n"}
+[1.942054] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[1.942182] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.942293] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[1.942419] (wit_ros2_imu) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[1.942540] (wit_ros2_imu) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[1.942686] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.942801] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.942904] (wit_ros2_imu) StderrLine: {'line': b'        Available configuration options are listed in:\n'}
+[1.943035] (wit_ros2_imu) StderrLine: {'line': b'        https://setuptools.pypa.io/en/latest/userguide/declarative_config.html\n'}
+[1.943201] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.943342] (wit_ros2_imu) StderrLine: {'line': b'        This deprecation is overdue, please update your project and remove deprecated\n'}
+[1.943628] (wit_ros2_imu) StderrLine: {'line': b'        calls to avoid build errors in the future.\n'}
+[1.943734] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.943834] (wit_ros2_imu) StderrLine: {'line': b'        See https://github.com/pypa/setuptools/discussions/5011 for details.\n'}
+[1.943956] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[1.944062] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[1.944167] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[1.944273] (wit_ros2_imu) StderrLine: {'line': b'  opt = self._enforce_underscore(opt, section)\n'}
+[1.991823] (wit_ros2_imu) StderrLine: {'line': b"/home/bbcontact/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:287: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[1.992034] (wit_ros2_imu) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[2.015099] (-) TimerEvent: {}
+[2.084675] (wit_ros2_imu) StderrLine: {'line': b"/home/bbcontact/.local/lib/python3.10/site-packages/setuptools/dist.py:599: SetuptoolsDeprecationWarning: Invalid dash-separated key 'script-dir' in 'develop' (setup.cfg), please use the underscore name 'script_dir' instead.\n"}
+[2.084929] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[2.085067] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[2.085190] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.085355] (wit_ros2_imu) StderrLine: {'line': b"        Usage of dash-separated 'script-dir' will not be supported in future\n"}
+[2.085517] (wit_ros2_imu) StderrLine: {'line': b"        versions. Please use the underscore name 'script_dir' instead.\n"}
+[2.085640] (wit_ros2_imu) StderrLine: {'line': b'        (Affected: wit_ros2_imu).\n'}
+[2.085757] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[2.085872] (wit_ros2_imu) StderrLine: {'line': b'        Available configuration options are listed in:\n'}
+[2.085987] (wit_ros2_imu) StderrLine: {'line': b'        https://setuptools.pypa.io/en/latest/userguide/declarative_config.html\n'}
+[2.086102] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[2.086215] (wit_ros2_imu) StderrLine: {'line': b'        This deprecation is overdue, please update your project and remove deprecated\n'}
+[2.086353] (wit_ros2_imu) StderrLine: {'line': b'        calls to avoid build errors in the future.\n'}
+[2.086493] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[2.086613] (wit_ros2_imu) StderrLine: {'line': b'        See https://github.com/pypa/setuptools/discussions/5011 for details.\n'}
+[2.086727] (wit_ros2_imu) StderrLine: {'line': b'        ********************************************************************************\n'}
+[2.086841] (wit_ros2_imu) StderrLine: {'line': b'\n'}
+[2.086954] (wit_ros2_imu) StderrLine: {'line': b'!!\n'}
+[2.087067] (wit_ros2_imu) StderrLine: {'line': b'  opt = self._enforce_underscore(opt, section)\n'}
+[2.115224] (-) TimerEvent: {}
+[2.215573] (-) TimerEvent: {}
+[2.284749] (wit_ros2_imu) StdoutLine: {'line': b'running egg_info\n'}
+[2.315663] (-) TimerEvent: {}
+[2.416004] (-) TimerEvent: {}
+[2.516452] (-) TimerEvent: {}
+[2.616809] (-) TimerEvent: {}
+[2.717202] (-) TimerEvent: {}
+[2.752443] (wit_ros2_imu) StdoutLine: {'line': b'writing build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO\n'}
+[2.753375] (wit_ros2_imu) StdoutLine: {'line': b'writing dependency_links to build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt\n'}
+[2.753928] (wit_ros2_imu) StdoutLine: {'line': b'writing entry points to build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt\n'}
+[2.754356] (wit_ros2_imu) StdoutLine: {'line': b'writing requirements to build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt\n'}
+[2.754798] (wit_ros2_imu) StdoutLine: {'line': b'writing top-level names to build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt\n'}
+[2.817373] (-) TimerEvent: {}
+[2.889554] (wit_ros2_imu) StdoutLine: {'line': b"reading manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[2.893639] (wit_ros2_imu) StdoutLine: {'line': b"writing manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'\n"}
+[2.893965] (wit_ros2_imu) StdoutLine: {'line': b'running build\n'}
+[2.894158] (wit_ros2_imu) StdoutLine: {'line': b'running build_py\n'}
+[2.895099] (wit_ros2_imu) StdoutLine: {'line': b'running install\n'}
+[2.905796] (wit_ros2_imu) StdoutLine: {'line': b'running install_lib\n'}
+[2.917484] (-) TimerEvent: {}
+[2.958523] (wit_ros2_imu) StdoutLine: {'line': b'running install_data\n'}
+[2.959510] (wit_ros2_imu) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.017624] (-) TimerEvent: {}
+[3.026274] (wit_ros2_imu) StdoutLine: {'line': b"removing '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[3.026866] (wit_ros2_imu) StdoutLine: {'line': b'Copying build/wit_ros2_imu/wit_ros2_imu.egg-info to /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info\n'}
+[3.029163] (wit_ros2_imu) StdoutLine: {'line': b'running install_scripts\n'}
+[3.117763] (-) TimerEvent: {}
+[3.152770] (wit_ros2_imu) StdoutLine: {'line': b'Installing wit_ros2_imu script to /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu\n'}
+[3.153773] (wit_ros2_imu) StdoutLine: {'line': b"writing list of installed files to '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log'\n"}
+[3.217974] (-) TimerEvent: {}
+[3.240928] (wit_ros2_imu) CommandEnded: {'returncode': 0}
+[3.281566] (wit_ros2_imu) JobEnded: {'identifier': 'wit_ros2_imu', 'rc': 0}
+[3.283806] (-) EventReactorShutdown: {}

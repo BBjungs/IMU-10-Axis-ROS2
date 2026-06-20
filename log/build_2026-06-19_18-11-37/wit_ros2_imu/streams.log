@@ -1,0 +1,65 @@
+[32.089s] Invoking command in '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu': PYTHONPATH=/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/wit_ros2_imu build --build-base /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build install --record /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log --install-scripts $base/lib/wit_ros2_imu --single-version-externally-managed install_data
+[32.428s] /home/bbcontact/.local/lib/python3.10/site-packages/setuptools/dist.py:599: SetuptoolsDeprecationWarning: Invalid dash-separated key 'script-dir' in 'develop' (setup.cfg), please use the underscore name 'script_dir' instead.
+[32.428s] !!
+[32.428s] 
+[32.428s]         ********************************************************************************
+[32.429s]         Usage of dash-separated 'script-dir' will not be supported in future
+[32.429s]         versions. Please use the underscore name 'script_dir' instead.
+[32.429s] 
+[32.429s] 
+[32.429s]         Available configuration options are listed in:
+[32.429s]         https://setuptools.pypa.io/en/latest/userguide/declarative_config.html
+[32.429s] 
+[32.429s]         This deprecation is overdue, please update your project and remove deprecated
+[32.429s]         calls to avoid build errors in the future.
+[32.430s] 
+[32.430s]         See https://github.com/pypa/setuptools/discussions/5011 for details.
+[32.430s]         ********************************************************************************
+[32.430s] 
+[32.430s] !!
+[32.430s]   opt = self._enforce_underscore(opt, section)
+[32.475s] /home/bbcontact/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:287: UserWarning: Unknown distribution option: 'tests_require'
+[32.475s]   warnings.warn(msg)
+[32.568s] /home/bbcontact/.local/lib/python3.10/site-packages/setuptools/dist.py:599: SetuptoolsDeprecationWarning: Invalid dash-separated key 'script-dir' in 'develop' (setup.cfg), please use the underscore name 'script_dir' instead.
+[32.568s] !!
+[32.568s] 
+[32.568s]         ********************************************************************************
+[32.568s]         Usage of dash-separated 'script-dir' will not be supported in future
+[32.568s]         versions. Please use the underscore name 'script_dir' instead.
+[32.568s]         (Affected: wit_ros2_imu).
+[32.568s] 
+[32.568s]         Available configuration options are listed in:
+[32.568s]         https://setuptools.pypa.io/en/latest/userguide/declarative_config.html
+[32.569s] 
+[32.569s]         This deprecation is overdue, please update your project and remove deprecated
+[32.569s]         calls to avoid build errors in the future.
+[32.569s] 
+[32.569s]         See https://github.com/pypa/setuptools/discussions/5011 for details.
+[32.569s]         ********************************************************************************
+[32.569s] 
+[32.569s] !!
+[32.569s]   opt = self._enforce_underscore(opt, section)
+[32.763s] running egg_info
+[33.166s] writing build/wit_ros2_imu/wit_ros2_imu.egg-info/PKG-INFO
+[33.166s] writing dependency_links to build/wit_ros2_imu/wit_ros2_imu.egg-info/dependency_links.txt
+[33.167s] writing entry points to build/wit_ros2_imu/wit_ros2_imu.egg-info/entry_points.txt
+[33.167s] writing requirements to build/wit_ros2_imu/wit_ros2_imu.egg-info/requires.txt
+[33.168s] writing top-level names to build/wit_ros2_imu/wit_ros2_imu.egg-info/top_level.txt
+[33.286s] reading manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'
+[33.290s] writing manifest file 'build/wit_ros2_imu/wit_ros2_imu.egg-info/SOURCES.txt'
+[33.290s] running build
+[33.290s] running build_py
+[33.291s] copying wit_ros2_imu/wit_ros2_imu.py -> /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu
+[33.292s] running install
+[33.302s] running install_lib
+[33.350s] copying /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build/lib/wit_ros2_imu/wit_ros2_imu.py -> /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu
+[33.351s] byte-compiling /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu/wit_ros2_imu.py to wit_ros2_imu.cpython-310.pyc
+[33.355s] running install_data
+[33.356s] copying launch/rviz_and_imu.launch.py -> /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/share/wit_ros2_imu
+[33.356s] running install_egg_info
+[33.408s] removing '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info' (and everything under it)
+[33.409s] Copying build/wit_ros2_imu/wit_ros2_imu.egg-info to /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages/wit_ros2_imu-0.0.0-py3.10.egg-info
+[33.410s] running install_scripts
+[33.508s] Installing wit_ros2_imu script to /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/wit_ros2_imu
+[33.509s] writing list of installed files to '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log'
+[33.564s] Invoked command in '/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu' returned '0': PYTHONPATH=/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/install/wit_ros2_imu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/wit_ros2_imu build --build-base /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/build install --record /home/bbcontact/Downloads/IMU Inertial Navigation Module-20260619T102908Z-3-001/IMU Inertial Navigation Module/1. Tutorials/2. IMU Application Routines/Program Files /6.ROS2 Application Program/ros2_imu/wit_ros2_imu/build/wit_ros2_imu/install.log --install-scripts $base/lib/wit_ros2_imu --single-version-externally-managed install_data
